@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+    max-height: fit-content;
+}
+body{
+    height: 100%;
+    max-height: fit-content;
+}
+#root{
+    height: 100%;
+    max-height: fit-content;
+}
+#pp{
+    height: 100%;
+    max-height: fit-content;
+    margin-left: auto;
+}

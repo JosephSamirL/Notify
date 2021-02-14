@@ -1,0 +1,86 @@
+.full{
+  height: 100%;
+}
+.pp{
+  bottom: 57%;
+  right: 25%;
+  left: 25%;
+  width: 50%!important;
+  border-radius: 10px;
+  
+
+}
+.back{
+min-height: 150px!important;
+}
+.bt{
+  
+  position: absolute;
+  right: 0%;
+  top: 0%;
+}
+.ppp{
+  margin-top: 100px;
+  top: 54px;
+  right: 25%;
+  left: 25%;
+  width: 50%!important;
+  border-radius: 10px;
+  
+}
+.round{
+  width: 15px;
+  height: 20px;
+  border-radius: 20px;
+}
+.pppp{
+  
+  top: 100%;
+  
+  right: 25%;
+  left: 25%;
+  border-radius: 10px;
+}
+.btt{
+  
+  position: absolute;
+  right: 0%;
+  top: 80px;
+}
+.bttt{
+  
+  position: absolute;
+  left: 0%;
+  top: 80px;
+}
+.sm{
+  width: fit-content!important;
+}
+.speech{
+  position: absolute;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  border-radius: 50%;
+  box-shadow: 100px;
+  border-style: none;
+  
+}
+.pooper{
+  max-height: fit-content;
+}
+.ar{
+  border-style: none;
+}
+
+.speech::hover{
+  border-style: none;
+  
+}
+.bl{
+  
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  height: fit-content;
+}
